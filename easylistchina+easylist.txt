@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +X/alS760pM4v1AWvCn1Mw
-! Version: 202205090235
+! Checksum: /YhH83l6K0IxZOcIa3rreQ
+! Version: 202205090455
 ! Title: EasyList China+EasyList
-! Last modified: 09 May 2022 02:35 UTC
+! Last modified: 09 May 2022 04:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -9371,6 +9371,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||biquge96.com/123.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17203,6 +17204,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||qintian.ink^
 ||8500.pro^
 ||sosodo.xyz^
+||smfierf.xyz^
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
 ##a[href*=".bfq04.com/"]
@@ -58124,7 +58126,6 @@ tf2r.com#@#.adverts
 ||cttghjfhsw.com^
 ||cubanetestoon.com^
 ||cubaordmvsslr.com^
-||cubics.com^
 ||cucalm.com^
 ||cuckooretire.com^
 ||cuculf.name^
@@ -71613,6 +71614,7 @@ tf2r.com#@#.adverts
 ||ctrhub.com^$third-party
 ||ctrmanager.com^$third-party
 ||ctxtfl.com^$third-party
+||cubics.com^$third-party
 ||cuelinks.com^$third-party
 ||currentlyobsessed.me^$third-party
 ||cybmas.com^$third-party
@@ -82525,6 +82527,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||arnhemland-safaris.com/images/made/$image,~third-party
 @@||cloud.mail.ru^$image,~third-party
 @@||crystalmark.info/wp-content/uploads/*-300x250.$image,~third-party
+@@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
 @@||government-and-constitution.org/images/presidential-seal-300-250.gif$image,~third-party
 @@||hiveworkscomics.com/frontboxes/300x250_$image,~third-party
 @@||leffatykki.com/media/banners/tykkibanneri-728x90.png$image,~third-party
