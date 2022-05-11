@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PpVeCKUiWeL0Fss4Vp4whQ
-! Version: 202205110845
+! Checksum: qa4US1aFYPobvUJRmHnISw
+! Version: 202205111315
 ! Title: EasyList China+EasyList
-! Last modified: 11 May 2022 08:45 UTC
+! Last modified: 11 May 2022 13:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1682,6 +1682,7 @@ ubmcmm.baidustatic.com
 ||00-gov.cn^
 ||000123456789.site^
 ||fakrg0e.cn^
+||yiniyiwo.org^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -17235,6 +17236,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zzxxli.club^
 ||chinaxinhe.net^
 ||rgks.net^
+||nimazhale.top^
+||csyys0731.com^
+||qd3zn.xyz^
+||sikai.ink^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -77401,6 +77406,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id​|adblockstreamtap
 ||homeprivatevids.com/js/580eka426.js
 ||hornygamer.com/includes/gamefile/sw3d_hornygamer.gif
 ||hornygamer.com/play_horny_games/
+||hornyjourney.com/fr.js
 ||hotgirlclub.com/assets/vendors/
 ||hotgirlsdream.com/tf40bbdd1767.js
 ||hotmovs.com/suhum/
@@ -77920,7 +77926,7 @@ dealsofde.com###gg_box_1
 dealsofde.com###gg_box_2
 glowstery.com###ghostery-highlights
 fmovies.ps,movies2watch.tv,moviesjoy.to,myflixer.to,myflixertv.to###gift-middle
-f2movies.to,fmovies.ps,fmoviesto.cc,movies2watch.tv,moviesjoy.to,myflixertv.to###gift-top
+f2movies.to,fmovies.ps,fmoviesto.cc,movies2watch.tv,moviesjoy.to,myflixertv.to,myflixer.to###gift-top
 freegames.org###gla
 wordcounter.net###glya
 pcgamingwiki.com###gog_summer_sale_2021
@@ -81862,6 +81868,7 @@ freebdsmxxx.org##[href^="https://t.me/joinchat/"]
 sexhimmel.com##[href^="https://www.amarotic.com/"]
 porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 koreanstreamer.xyz##[href^="https://www.saltycams.com"]
+youporn.com##[src*="bloB:"]
 tube8.com,tube8.es,tube8.fr##[src*="bloB:https://www.tube8."]
 youjizz.com,youporn.com,youporngay.com##[src*="blob:"]
 pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr##[src^="bLob:"]
