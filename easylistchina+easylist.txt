@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xhi5f7AMCDQQzbr3Uxu/LA
-! Version: 202205120505
+! Checksum: k8fPenATGlsWiBPj+9spQw
+! Version: 202205120845
 ! Title: EasyList China+EasyList
-! Last modified: 12 May 2022 05:05 UTC
+! Last modified: 12 May 2022 08:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -9401,6 +9401,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||360buyimg.com/babel/jfs/t1/209256/22/21888/60206/627b7a6aEa5f2d78b/219868beb169203f.jpg
+||kejiwanjia.com/wp-content/uploads/*/1040x100.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17242,6 +17243,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||unnqyqq.cn^
 ||j46.xyz^
 ||uebabuf.cn^
+||wangchangye.xyz^
+||lovecat.online^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -76694,6 +76697,7 @@ tf2r.com#@#.adverts
 ||howtogermany.com/images/bnr-
 ||hubgifs.info/adsusd/
 ||i-tech.com.au/media/wysiwyg/banner/
+||iamcdn.net/players/playhydraxs.min.js$domain=player-cdn.com
 ||ice.hockey/images/sponsoren/
 ||iceinspace.com.au/iisads/
 ||idlebrain.com^*/footer-
@@ -82321,6 +82325,8 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||vidible.tv/stage/$media,object,other
 @@||volterra.io^*/advertise_policy$~third-party
 @@||volterra.us^*/advertise_policy$~third-party
+@@||warpwire.com/AD/
+@@||warpwire.net/AD/
 @@||webmd.com/dtmcms/live/webmd/*/video-ad.js$script,~third-party
 @@||wikia.nocookie.net^$stylesheet
 @@||wikia.nocookie.net^*/images/$image
