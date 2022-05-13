@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HCyA4mdHcT+ZMmSVpkpGBA
-! Version: 202205131025
+! Checksum: 9StfmsEjt1JcXj3Ay16OnA
+! Version: 202205131325
 ! Title: EasyList China+EasyList
-! Last modified: 13 May 2022 10:25 UTC
+! Last modified: 13 May 2022 13:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1682,6 +1682,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||zxse43.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||29525187.com^
 ||17271819.com^
@@ -17247,6 +17248,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||yangchunblog.club^
+||jinlijzbd.com^
 ||wty007.xyz^
 ||mathmodel.xyz^
 ||xyy9.xyz^
@@ -64185,7 +64188,6 @@ tf2r.com#@#.adverts
 ||nesystersp.club^
 ||net-ad-vantage.com^
 ||net00.biz^
-||net3media.com^
 ||netcatx.com^
 ||netgreatlyavailable.com^
 ||netpatas.com^
@@ -77872,6 +77874,7 @@ post-gazette.com###benn-poll-iframe-container
 fightful.com###betway-sports
 usnews.com###bfad-slot
 shellshock.io###big-house-ad
+returnyoutubedislike.com###biggest-supporters
 bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com,duquoin.com,randolphcountyheraldtribune.com###billBoardATF
 versus.com###bill_bottom
 cricketnetwork.co.uk,f1network.net,howtogermany.com,rugbynetwork.net,thefootballnetwork.net,timesandstar.co.uk###billboard
