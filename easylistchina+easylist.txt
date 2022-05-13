@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NB4/vsRL86VqTq+zOqdbbQ
-! Version: 202205130845
+! Checksum: HCyA4mdHcT+ZMmSVpkpGBA
+! Version: 202205131025
 ! Title: EasyList China+EasyList
-! Last modified: 13 May 2022 08:45 UTC
+! Last modified: 13 May 2022 10:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -9412,6 +9412,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -57572,7 +57573,6 @@ tf2r.com#@#.adverts
 ||chiptionics.co^
 ||chirkacylal.com^
 ||chitaglipti.pro^
-||chitika.com^
 ||chitika.net^
 ||chittedjauping.com^
 ||chivalrouspeacockgreatly.com^
@@ -71781,6 +71781,7 @@ tf2r.com#@#.adverts
 ||cbclickbank.com^$third-party
 ||cdnreference.com^$third-party
 ||charltonmedia.com^$third-party
+||chitika.com^$third-party
 ||cibleclick.com^$third-party
 ||cinarra.com^$third-party
 ||citrusad.com^$third-party
