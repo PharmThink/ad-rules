@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jRnKt4gqSYYtPiIftZ/vXQ
-! Version: 202205131705
+! Checksum: W9ehkjQR6bEGgp3mZgJBwg
+! Version: 202205140255
 ! Title: EasyList China+EasyList
-! Last modified: 13 May 2022 17:05 UTC
+! Last modified: 14 May 2022 02:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1683,6 +1683,7 @@ ubmcmm.baidustatic.com
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
 ||zxse43.com^
+||pfiparts.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||29525187.com^
 ||17271819.com^
@@ -17250,6 +17251,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||yangchunblog.club^
 ||jinlijzbd.com^
+||summerxzp.xyz^
+||c0c.biz^
+||anabcd.xyz^
+||gxzxiww.com^
 ||wty007.xyz^
 ||mathmodel.xyz^
 ||xyy9.xyz^
@@ -34248,6 +34253,12 @@ _800x80_
 ###app_advertising_pregame_content
 ###app_advertising_rectangle
 ###app_advertising_rectangle_ph
+###appnexus-placement-articleRecommendationAd1
+###appnexus-placement-articleRecommendationAd2
+###appnexus-placement-posterad
+###appnexus-placement-topicblockAd0
+###appnexus-placement-topicblockAd1
+###appnexus-placement-topicblockAd2
 ###apt-homebox-ads
 ###araHealthSponsorAd
 ###area-adcenter
