@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k5uv/Q/Yue79qVsBbQrfRg
-! Version: 202205140535
+! Checksum: D5vyTiT07DGbpDWQquZ7mQ
+! Version: 202205140845
 ! Title: EasyList China+EasyList
-! Last modified: 14 May 2022 05:35 UTC
+! Last modified: 14 May 2022 08:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1398,9 +1398,10 @@ ubmcmm.baidustatic.com
 ##div[onclick*="?i_code="]
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
 ##a[target="_blank"] > img[height="60px"][src*=".lenovo.com"][src$=".png"]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
+##a[target="_blank"] > img[height="60px"][src*=".126.net"][src$=".gif"]
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[onclick*="/statics/js/"]
 ##img[onclick="window.open(this.url)"][src*="qq.com"]
@@ -17256,6 +17257,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||anabcd.xyz^
 ||gxzxiww.com^
 ||mobrkbb.com^
+||cyl3h68.cn^
+||fanst.club^
+||yguo.xyz^
 ||wty007.xyz^
 ||mathmodel.xyz^
 ||xyy9.xyz^
