@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fMRk18I6XgLisnl/dPdV/w
-! Version: 202205151305
+! Checksum: 89sV6JOtRnAB1bAUkWgfgA
+! Version: 202205151655
 ! Title: EasyList China+EasyList
-! Last modified: 15 May 2022 13:05 UTC
+! Last modified: 15 May 2022 16:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1683,6 +1683,9 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||uuwn7ho.cn^
+||yhbsk.cn^
+||fpvdxd5.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -17247,6 +17250,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||swml.xyz^
+||kxla.xyz^
 ||ixnrmco.com^
 ||4kddyfd.cn^
 ##a[href$=".120ydrayy.com"]
