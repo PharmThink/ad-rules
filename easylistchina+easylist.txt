@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 89sV6JOtRnAB1bAUkWgfgA
-! Version: 202205151655
+! Checksum: vL5HhQOUJwNagtA2bEQ90w
+! Version: 202205160215
 ! Title: EasyList China+EasyList
-! Last modified: 15 May 2022 16:55 UTC
+! Last modified: 16 May 2022 02:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -17252,6 +17252,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||swml.xyz^
 ||kxla.xyz^
+||520myjj.xyz^
 ||ixnrmco.com^
 ||4kddyfd.cn^
 ##a[href$=".120ydrayy.com"]
@@ -72253,6 +72254,7 @@ tf2r.com#@#.adverts
 ||movie-streams-online.com^$third-party
 ||mp3zik.net^$third-party
 ||mpuls.ru^$third-party
+||mtburn.com^$third-party
 ||multiview.com^$third-party
 ||myaffiliates.com^$third-party
 ||myopenads.com^$third-party
