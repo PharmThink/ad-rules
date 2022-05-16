@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JzU9Iq2tV1EJ3aXouSQOMQ
-! Version: 202205161315
+! Checksum: QCPqcOA/uHzjG51cPbZELw
+! Version: 202205161705
 ! Title: EasyList China+EasyList
-! Last modified: 16 May 2022 13:15 UTC
+! Last modified: 16 May 2022 17:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -17257,6 +17257,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||cggf.xyz^
 ||sinimb.top^
 ||mmhwxofnea.com^
+||niuhe.xyz^
+||vrzsw.com^
+||aihuihui.xyz^
 ||swml.xyz^
 ||kxla.xyz^
 ||520myjj.xyz^
@@ -71714,6 +71717,7 @@ tf2r.com#@#.adverts
 ||banner-rotation.com^$third-party
 ||bannerbank.ru^$third-party
 ||bannerbit.com^$third-party
+||bannerboo.com^$third-party
 ||bannerbridge.net^$third-party
 ||bannerconnect.com^$third-party
 ||bannerconnect.net^$third-party
@@ -76965,6 +76969,7 @@ tf2r.com#@#.adverts
 ||rabble.ca/sites/default/files/styles/partners_
 ||radiocity.in/radiocity/$subdocument
 ||radioreference.com/i/p4/tp/smPortalBanner.gif
+||rafvertizing.crazygames.com^
 ||realpython.net/tag.js
 ||republicmonitor.com/images/lundy-placeholder.jpeg
 ||reutersmedia.net/resources/r/?j=
@@ -78583,9 +78588,9 @@ santacruzsentinel.com###weeklybar2
 webfail.com###wf-d-300x250
 theregister.com###whitepapers
 itnews.com.au###whitepapers-container
+apotelyt.com###wiDoCon
 gomapper.com###wideSkyScraper
 tribunnews.com###wideskyscraper
-apotelyt.com###wiDoCon
 wallpapersmania.com###wm_cpa
 gaynewzealand.com###wn-insurance-quote-editor
 rediff.com###world_right1
@@ -79221,9 +79226,9 @@ dailydot.com##.cta-article-wrapper
 filerio.in##.ctl25
 funny.com##.ctnAdBanner
 seattlepi.com##.ctpl-fullbanner
-homefinder.com##.cubeContainer
 apotelyt.com##.cuFitaCon
 apotelyt.com##.cuPopuCon
+homefinder.com##.cubeContainer
 speedrun.com##.curse
 toolslib.net##.custom
 manilastandard.net##.custom-banner-customize
@@ -80118,8 +80123,8 @@ bangordailynews.com##.scaip
 newindianexpress.com##.scc
 readmng.com##.scroll_target_top
 9anime.to##.sda
-apotelyt.com##.sdbrUnitFlex250a
 apotelyt.com##.sdbrUnitFlex100
+apotelyt.com##.sdbrUnitFlex250a
 userscript.zone##.searcad
 semiconductor-today.com##.searchmidbox
 minecraftservers.org##.second-banner
