@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q07/QbFTDKt+8LMWk674fw
-! Version: 202205172045
+! Checksum: WI0ofW+xiQZEm3PofxDRcQ
+! Version: 202205180235
 ! Title: EasyList China+EasyList
-! Last modified: 17 May 2022 20:45 UTC
+! Last modified: 18 May 2022 02:35 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1399,6 +1399,9 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
+##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="120px"]
+###rm-float3
+##.title > .gg
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -1685,6 +1688,7 @@ ubmcmm.baidustatic.com
 .8ox.cn
 ||00-gov.cn^
 ||000123456789.site^
+||yanzunyang.top^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -17254,6 +17258,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||yyxrm.com^
+||guliangli.online^
+||purchathough.com^
+||675ujh.site^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
