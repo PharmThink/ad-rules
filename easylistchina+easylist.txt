@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AWs2Kq+M7ODyFIpUNOte9A
-! Version: 202205190115
+! Checksum: nRYLjHwnhzKcsgxP0/2qvw
+! Version: 202205190245
 ! Title: EasyList China+EasyList
-! Last modified: 19 May 2022 01:15 UTC
+! Last modified: 19 May 2022 02:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -9436,6 +9436,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||u3c3.cc^*.png
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17279,6 +17280,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||xpizjd4.cn^
 ||v3hu9iu.cn^
 ||mynwct.xyz^
+||yjsituation.com^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -49543,6 +49545,7 @@ _800x80_
 ##.mrecAds
 ##.mrec_advert
 ##.mrf-adv
+##.mrf-adv__wrapper
 ##.mrf-directad
 ##.ms-ad-superbanner
 ##.ms-ads-link
