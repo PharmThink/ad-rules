@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: B3vFqDhWEvRAnCAErupc+w
-! Version: 202205200235
+! Checksum: 3NEwoZdbEAJNSPxfCw7TVQ
+! Version: 202205200455
 ! Title: EasyList China+EasyList
-! Last modified: 20 May 2022 02:35 UTC
+! Last modified: 20 May 2022 04:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1405,8 +1405,8 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:970px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -1421,7 +1421,8 @@ ubmcmm.baidustatic.com
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
-##script + a[href="/hth.html"][target="_blank"]
+##a[target="_blank"] > img[height="120px"][src*=".meituan.net"][src$=".gif"]
+##a[href="/hth.html"][target="_blank"]
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##script[src="/template/kuhei2/skin/base.js"] + #couplet
 ##span[title="neteasefooter"]
@@ -17293,6 +17294,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||jk5t7g6.cn^
 ||xqzzl1l.cn^
+||ddwant.cn^
+||wlr8yw8.cn^
+||zllqoxidate.com^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -41095,6 +41099,7 @@ _800x80_
 ##.ad-top-rectangle
 ##.ad-top-right-container
 ##.ad-top-side
+##.ad-top-wrap-inner
 ##.ad-top-wrapper
 ##.ad-top1
 ##.ad-top2
@@ -45616,6 +45621,7 @@ _800x80_
 ##.base-ad-mpu
 ##.base-ad-slot
 ##.base-ad-top
+##.base__header-ad
 ##.base_ad
 ##.base_printer_widgets_AdBreak
 ##.baseboard-ad
@@ -47224,6 +47230,7 @@ _800x80_
 ##.ezoic-floating-bottom
 ##.f-ad
 ##.f-item-ad
+##.f-item-ad-inhouse
 ##.fN-affiliateStrip
 ##.f_Ads
 ##.fa-advertising
@@ -79397,6 +79404,7 @@ arcadebomb.com##.colunit1
 bollywoodlife.com##.combinedslots
 knowyourmeme.com##.combo-wrapper
 googlesightseeing.com##.comm-square
+insider.com##.commerce-coupons-module
 goal.com,runningserver.com,thisislondon.co.uk##.commercial
 blackcaps.co.nz##.commercial-partners
 telegraph.co.uk##.commercial-unit
