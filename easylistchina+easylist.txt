@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3NEwoZdbEAJNSPxfCw7TVQ
-! Version: 202205200455
+! Checksum: gfGj/YP1H4VM3KxNx5bLcw
+! Version: 202205200845
 ! Title: EasyList China+EasyList
-! Last modified: 20 May 2022 04:55 UTC
+! Last modified: 20 May 2022 08:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1700,6 +1700,7 @@ ubmcmm.baidustatic.com
 ||00xvppy.cn^
 ||dadilan2.online^
 ||e49.xyz^
+||cxnroh6u.xyz^
 ||012.tw^$third-party
 ||01fen.com^
 ||022aifang.com^
@@ -17297,6 +17298,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ddwant.cn^
 ||wlr8yw8.cn^
 ||zllqoxidate.com^
+||bangbangle.online^
+||e6g804q.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
